@@ -1,0 +1,16 @@
+
+DUT-LF (SANet):    	0.0329 mae || 0.9181 adaptive-fm || 0.9496 adaptive-Emeasure || 0.9168 S-measure
+DUT-LF (SANet+3D):	0.0326 mae || 0.9157 adaptive-fm || 0.9492 adaptive-Emeasure || 0.9155 S-measure 
+DUT-LF (SA-Trans): 	0.0181 mae || 0.9475 adaptive-fm || 0.9670 adaptive-Emeasure || 0.9470 S-measure 
+
+HFUT (SANet): 		0.0774 mae || 0.7322 adaptive-fm || 0.8415 adaptive-Emeasure || 0.7952 S-measure 
+HFUT (SANet+3D): 	0.0709 mae || 0.7453 adaptive-fm || 0.8557 adaptive-Emeasure || 0.8019 S-measure 
+HFUT (SA-Trans): 	0.0507 mae || 0.8131 adaptive-fm || 0.8907 adaptive-Emeasure || 0.8541 S-measure 
+
+LFSD (SANet): 		0.0758 mae || 0.8469 adaptive-fm || 0.8912 adaptive-Emeasure || 0.8448 S-measure 
+LFSD (SANet+3D): 	0.0728 mae || 0.8471 adaptive-fm || 0.8945 adaptive-Emeasure || 0.8447 S-measure 
+LFSD (SA-Trans): 	0.0518 mae || 0.8782 adaptive-fm || 0.9026 adaptive-Emeasure || 0.8838 S-measure 
+
+DUT-LF (SANet+ViT): 0.0227 mae || 0.9413 adaptive-fm || 0.9648 adaptive-Emeasure || 0.9414 S-measure 
+HFUT (SANet+ViT):   0.0543 mae || 0.8089 adaptive-fm || 0.8896 adaptive-Emeasure || 0.8530 S-measure 
+LFSD (SANet+ViT):   0.0620 mae || 0.8746 adaptive-fm || 0.9087 adaptive-Emeasure || 0.8752 S-measure 
